@@ -1,3 +1,0 @@
-/home/yael/Documentos/Algoritmos/Tarea1/build/CMakeFiles/rebuild_cache.dir
-/home/yael/Documentos/Algoritmos/Tarea1/build/CMakeFiles/edit_cache.dir
-/home/yael/Documentos/Algoritmos/Tarea1/build/CMakeFiles/Series.dir
