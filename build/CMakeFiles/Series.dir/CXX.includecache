@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Series.h
+iostream
+-
+
+/home/yael/Documentos/Algoritmos/Tarea1/src/Series.cpp
+Series.h
+/home/yael/Documentos/Algoritmos/Tarea1/src/Series.h
+
+/home/yael/Documentos/Algoritmos/Tarea1/src/main.cpp
+iostream
+-
+Series.h
+/home/yael/Documentos/Algoritmos/Tarea1/src/Series.h
+

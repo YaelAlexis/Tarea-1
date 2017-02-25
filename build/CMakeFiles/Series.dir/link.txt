@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Series.dir/src/Series.cpp.o CMakeFiles/Series.dir/src/main.cpp.o  -o Series -rdynamic 
